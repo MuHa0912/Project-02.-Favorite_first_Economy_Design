@@ -1,6 +1,6 @@
 [Project 02] Favorite_first_Economy_Design (최애 중심 유저 그룹을 위한 선택형 보상 설계 및 경제 효과 시뮬레이션)
 
--주제 : 수집형 RPG에서 발생하는 '성장 정체' 현상을 분석하고, 선택형 보상 시스템을 제안하여 경제 순환과 유저 성장을 유도한 기획/분석 프로젝트입니다.
+-주제 : 수집형 RPG에서 발생하는 '성장 정체' 현상을 분석하고, 선택형 보상 시스템을 제안하여 경제 순환과 유저 성장을 유도한 데이터 분석 프로젝트입니다.
 
 1. Project Overview
 -Tools : SQL(SSMS), Excel, Looker Studio
